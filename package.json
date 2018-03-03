@@ -1,0 +1,19 @@
+{
+  "name": "customer-app",
+  "version": "1.0.0",
+  "description": "Simple Customer Management App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.5.7",
+    "express": "*",
+    "express-validator": "^5.0.2",
+    "mongojs": "^2.5.0",
+    "npm": "^5.7.1"
+  },
+  "author": "Stephanie Cueto",
+  "license": "ISC"
+}
